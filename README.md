@@ -1,4 +1,4 @@
-# BDA594-jeremy
+# BDA594-jeremy2
 ## Jeremy Dang
 ### https://sdsu.instructure.com/courses/140114
 
